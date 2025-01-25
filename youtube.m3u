@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737850241/ei/ISmVZ8HPKZiAsfIPx5KSwQM/ip/52.160.165.130/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51371269/txs/51371269%2C51371270%2C51371271/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NIKhI0lbVnwQ3iw2cDQTF2fxDvUx7JnamH2gqdVMNm_zxb9gGaR-UDXQ4HpVYTHfA3n1Oy90Ee/spc/9kzgDcDp5QHexZZHgIfUMeJDgJfzmerUjK4GwS_gqU7Gpx06sxiHNUCxzGAVmWE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJeiHKci5JHOiIi6TYsFA6e02ouK3kktQqAUuY3hYxHCAiEAvLMYlVhOgF2O-fYML_t3fmWIDUzFulyjHe3kS9HVwPQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Spuds" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" tvg-id="", Spuds TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Yourliveevent" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" tvg-id="", Your Live Event
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737850243/ei/IymVZ6OTGf_5sfIPgrLq0A0/ip/52.160.165.130/id/JNS9Yf05XhI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51369428/txs/51369426%2C51369427%2C51369428%2C51369429%2C51369430%2C51369431%2C51369432%2C51369433%2C51369434/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MTqtja1Gw1oDsKBXguAAI0dzD3E478_mE9CVdWJvTikcks9kVra8aVoLB93sslDHUSr5Z6pT8W/spc/9kzgDf8qJ8G3psP5ewfj-PzxNXn9mQbYNbfmmJk1dZ0WngxLTSDuoRzJW1Waj9M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWWOhBP7KDLtHU7HCjuOoXbNH0GK1dJ72q7pK_c3bDDECIQCeLj1058ZpfY3wEDVbplTtBp94lTfxAZhqqA_PoE06fg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Knox Tv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" tvg-id="", KNOX TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
