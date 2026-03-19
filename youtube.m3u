@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773977098/ei/qmm8abGtM9Koir4P6uDkqAQ/ip/135.232.201.65/id/1wECsnGZcfc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ySvRRAHsHvHPU6oy2Z0UujNhGDrxk9b0MqQAh0DHMv4cpaO-XSn0-OyI47Huw48HNCQT0J5C8Z/spc/6dlaFJRUOwSDr8ogSSYUl_tI5Cl-cqY7Om1An5sYzirg8UnPOEDX_pw6yNM/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgCNPSRsJO1_VgyYJUTW6mNSFunda1sYXCnuiXc971DtICICxGNwpQqcLPENV_4wkEZucP6B1wBjkcGeKb8bYUYqxl/file/index.m3u8
 
 #EXTINF:-1 group-title="Spuds" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" tvg-id="", Spuds TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
